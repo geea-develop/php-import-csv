@@ -12,7 +12,7 @@
 function createConnection() {
     $servername = "localhost";
     $username = "root";
-    $password = "pesemv6";
+    $password = "";
     $dbname = "test_yukon";
     $sql = "";
 
